@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <script src="main.js">
+
+    </script>
+</body>
+<video id="v1" height="120" width="160" autoplay muted></video>
+<video id="v2" height="120" width="160" autoplay></video>
+<br>
+<button id="button" onclick="createOffer()">Offer:</button>
+</br>
+</br>
+</br>
+
+<textarea id="offer" placeholder="Paste offer here" rows="5" cols="75"></textarea>
+<br>
+</br>
+</br>
+</br>
+Answer:
+<textarea id="answer" rows="5" cols="75" style="float:left"></textarea>
+<br>
+<div id="div"></div>
+</br>
+
+<button id="state" onclick="CreateAnswer(offer.value)">CreateAnswer:</button>
+<button id="process" onclick="connnectToPeer(answer.value)">connnectToPeer:</button>
+</br>
+</br>
+</br>
+</br>
+<br>
+</br>
+</br>
+</br>
+</html>

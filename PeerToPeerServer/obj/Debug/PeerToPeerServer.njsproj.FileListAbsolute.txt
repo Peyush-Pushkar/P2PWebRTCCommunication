@@ -1,0 +1,2 @@
+c:\users\peyush\documents\visual studio 2015\Projects\PeerToPeerServer\PeerToPeerServer\obj\Debug\PeerToPeerServer.njsprojResolveAssemblyReference.cache
+c:\users\peyush\documents\visual studio 2015\Projects\PeerToPeerServer\PeerToPeerServer\bin\Microsoft.NodejsTools.WebRole.dll
